@@ -34,4 +34,4 @@ This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-s
     ```
 
 ## Updates
-
+[See update log](https://github.com/MarcelusCH/chainlist-truffle4/blob/master/UPDATES.md)
